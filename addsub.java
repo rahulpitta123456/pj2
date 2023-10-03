@@ -1,4 +1,4 @@
-class addsub
+public class addsub
 {
 public static void main(String args[])
 {
